@@ -161,7 +161,7 @@
 /* section-1  landing page */
 .section-1{
     width: 100vw;
-    height: 500px;
+    min-height: 400px;
     background-color:#000;
 
 }
@@ -251,7 +251,7 @@
     padding: 0px;
     /* max-width: 300px;
     aspect-ratio: 1; */
-    max-width:300px ;
+    max-width:250px ;
     
     aspect-ratio: 1;
     object-fit: cover;
@@ -267,7 +267,7 @@
 
 .section-2{
     width: 100vw;
-    height: 500px;
+    min-height: 400px;
     /* display: flex;
     justify-content: center;
     align-items: center; */
@@ -328,7 +328,7 @@
 
 .box-1 img{
     
-    max-width:300px ;
+    max-width:250px ;
     aspect-ratio: 1;
     /* height: 100%; */
     border-radius: 5%;
@@ -336,7 +336,7 @@
 /* section-3---------------------------------- */
 .section-3{
     width: 100vw;
-    height: fit-content;
+    /* min-height:400px; */
     background-color: #000;
     color: #fff;
     display: flex;
@@ -359,7 +359,7 @@
 /* section-4 ---------- */
 .section-4{
    width: 100vw;
-   min-height: 500px;
+   min-height: 400px;
   
     display: flex;
     /* justify-content: center; */
@@ -415,7 +415,7 @@
 /* section-5-------------------- */
 .section-5{
     width: 100vw;
-    min-height: 500px ;
+    min-height: 400px ;
     /* height: 100vh; */
     background-color: #000;
     color: #fff;
